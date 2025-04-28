@@ -388,7 +388,8 @@ public final class OverrideSelectionViewController: UICollectionViewController, 
             return originalIndexPath
         }
 
-        return proposedIndexPath == indexPathOfCustomOverride()
+        let customPresetRow = self.collectionView(collectionView, numberOfItemsInSection: proposedIndexPath.section) - 2
+        return proposedIndexPath.row >= customPresetRow
             ? originalIndexPath
             : proposedIndexPath
 
