@@ -58,6 +58,12 @@
             "value" : "Bolo"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bolus"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -338,6 +344,12 @@
             "value" : "Insulina Sospesa"
           }
         },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insulin pauset"
+          }
+        },
         "nb-NO" : {
           "stringUnit" : {
             "state" : "translated",
@@ -496,7 +508,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Geen Insuline"
+            "value" : "Geen insuline"
           }
         },
         "pl" : {
@@ -639,7 +651,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pompbatterij Leeg"
+            "value" : "Pompbatterij leeg"
           }
         },
         "pl" : {
@@ -788,7 +800,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pomp Foutmelding"
+            "value" : "Pomp foutmelding"
           }
         },
         "pl" : {
@@ -1343,6 +1355,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Basale temporanea"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Midlertidig basal"
           }
         },
         "nb-NO" : {

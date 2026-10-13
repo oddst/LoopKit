@@ -192,7 +192,7 @@
         "nb" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Karb forhold"
+            "value" : "Karbohydratforhold"
           }
         },
         "nl" : {
@@ -799,7 +799,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Genereer Gegevens"
+            "value" : "Genereer gegevens"
           }
         },
         "pl" : {
@@ -1281,7 +1281,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Reset"
+            "value" : "Herstel"
           }
         },
         "pl" : {
